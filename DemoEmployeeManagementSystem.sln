@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLibrary", "BaseLibrary\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientLibrary", "ClientLibrary\ClientLibrary.csproj", "{FBF2CCBF-E190-4BD5-81F1-F3ACC4CA96ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerLibrary", "ServerLibrary\ServerLibrary.csproj", "{50EB2EBA-ADA6-497E-87C0-0D3945DC8911}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{FBF2CCBF-E190-4BD5-81F1-F3ACC4CA96ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBF2CCBF-E190-4BD5-81F1-F3ACC4CA96ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBF2CCBF-E190-4BD5-81F1-F3ACC4CA96ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50EB2EBA-ADA6-497E-87C0-0D3945DC8911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50EB2EBA-ADA6-497E-87C0-0D3945DC8911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50EB2EBA-ADA6-497E-87C0-0D3945DC8911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50EB2EBA-ADA6-497E-87C0-0D3945DC8911}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
