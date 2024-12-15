@@ -6,10 +6,14 @@
     <projectFile profileName="http">Server/Server.csproj</projectFile>
     <projectFile profileName="https">Server/Server.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4de95fec-6116-4061-a4cd-4eb33d5ec5f4" name="Changes" comment="Add Api">
+    <list default="true" id="4de95fec-6116-4061-a4cd-4eb33d5ec5f4" name="Changes" comment="Add BaseLibrary">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoEmployeeManagementSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoEmployeeManagementSystem/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DemoEmployeeManagementSystem.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DemoEmployeeManagementSystem.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/Client.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Client.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/Server.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Server.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +116,7 @@
       <updated>1734298254230</updated>
       <workItem from="1734298256000" duration="93000" />
       <workItem from="1734298362178" duration="27000" />
-      <workItem from="1734298623431" duration="306000" />
+      <workItem from="1734298623431" duration="620000" />
     </task>
     <task id="LOCAL-00001" summary="Add new project">
       <option name="closed" value="true" />
@@ -130,7 +134,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734298810695</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Blazor WebAssembly Standalone App">
+      <option name="closed" value="true" />
+      <created>1734298998141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734298998141</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add BaseLibrary">
+      <option name="closed" value="true" />
+      <created>1734299080591</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734299080591</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +174,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Add new project" />
     <MESSAGE value="Add Api" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Api" />
+    <MESSAGE value="Add Blazor WebAssembly Standalone App" />
+    <MESSAGE value="Add BaseLibrary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BaseLibrary" />
   </component>
 </project>
