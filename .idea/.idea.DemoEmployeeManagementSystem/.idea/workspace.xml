@@ -10,20 +10,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4de95fec-6116-4061-a4cd-4eb33d5ec5f4" name="Changes" comment="Add BaseLibrary">
+    <list default="true" id="4de95fec-6116-4061-a4cd-4eb33d5ec5f4" name="Changes" comment="Add ServerLibrary">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoEmployeeManagementSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoEmployeeManagementSystem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/App.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Client/App.razor" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Client/Client.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Client.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Server/Server.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Server.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerLibrary/ServerLibrary.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ServerLibrary/ServerLibrary.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -34,6 +42,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.Client: http.executor": "Run",
+    ".NET Launch Settings Profile.Server: http.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Master",
     "node.js.detected.package.eslint": "true",
@@ -116,7 +126,7 @@
       <updated>1734298254230</updated>
       <workItem from="1734298256000" duration="93000" />
       <workItem from="1734298362178" duration="27000" />
-      <workItem from="1734298623431" duration="620000" />
+      <workItem from="1734298623431" duration="3904000" />
     </task>
     <task id="LOCAL-00001" summary="Add new project">
       <option name="closed" value="true" />
@@ -150,7 +160,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734299080591</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Client Library">
+      <option name="closed" value="true" />
+      <created>1734299345871</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734299345871</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add ServerLibrary">
+      <option name="closed" value="true" />
+      <created>1734299438526</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734299438526</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +202,8 @@
     <MESSAGE value="Add Api" />
     <MESSAGE value="Add Blazor WebAssembly Standalone App" />
     <MESSAGE value="Add BaseLibrary" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BaseLibrary" />
+    <MESSAGE value="Add Client Library" />
+    <MESSAGE value="Add ServerLibrary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ServerLibrary" />
   </component>
 </project>
