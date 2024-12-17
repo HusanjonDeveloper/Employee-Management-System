@@ -5,14 +5,15 @@
     <projectFile profileName="https">Client/Client.csproj</projectFile>
     <projectFile profileName="http">Server/Server.csproj</projectFile>
     <projectFile profileName="https">Server/Server.csproj</projectFile>
+    <projectFile profileName="http">dsds/dsds.csproj</projectFile>
+    <projectFile profileName="https">dsds/dsds.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4de95fec-6116-4061-a4cd-4eb33d5ec5f4" name="Changes" comment="Add nuget">
-      <change beforePath="$PROJECT_DIR$/Client/Client.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Client.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientLibrary/ClientLibrary.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Client.Library/Client.Library.csproj" afterDir="false" />
+    <list default="true" id="4de95fec-6116-4061-a4cd-4eb33d5ec5f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoEmployeeManagementSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoEmployeeManagementSystem/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DemoEmployeeManagementSystem.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DemoEmployeeManagementSystem.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +48,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     ".NET Launch Settings Profile.Client: http.executor": "Run",
-    ".NET Launch Settings Profile.Server: http.executor": "Run",
+    ".NET Launch Settings Profile.Server: http.executor": "Debug",
+    ".NET Launch Settings Profile.Server: https.executor": "Run",
+    ".NET Launch Settings Profile.dsds: http.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Master",
     "node.js.detected.package.eslint": "true",
@@ -58,7 +61,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.Server: http">
+  <component name="RunManager" selected=".NET Launch Settings Profile.dsds: http">
     <configuration name="Client: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Client/Client.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
@@ -119,6 +122,36 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="dsds: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/dsds/dsds.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="http" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="dsds: https" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/dsds/dsds.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="https" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -130,7 +163,7 @@
       <updated>1734298254230</updated>
       <workItem from="1734298256000" duration="93000" />
       <workItem from="1734298362178" duration="27000" />
-      <workItem from="1734298623431" duration="9452000" />
+      <workItem from="1734298623431" duration="10329000" />
     </task>
     <task id="LOCAL-00001" summary="Add new project">
       <option name="closed" value="true" />
@@ -196,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734439879759</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Delete all">
+      <option name="closed" value="true" />
+      <created>1734440231420</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1734440231420</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +267,7 @@
     <MESSAGE value="Add ServerLibrary" />
     <MESSAGE value="code rub all code" />
     <MESSAGE value="Add nuget" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add nuget" />
+    <MESSAGE value="Delete all" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete all" />
   </component>
 </project>
