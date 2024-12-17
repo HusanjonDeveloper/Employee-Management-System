@@ -10,13 +10,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4de95fec-6116-4061-a4cd-4eb33d5ec5f4" name="Changes" comment="code rub all code">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DemoEmployeeManagementSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DemoEmployeeManagementSystem/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaseLibrary/BaseLibrary.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLibrary/BaseLibrary.csproj" afterDir="false" />
+    <list default="true" id="4de95fec-6116-4061-a4cd-4eb33d5ec5f4" name="Changes" comment="Add nuget">
       <change beforePath="$PROJECT_DIR$/Client/Client.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Client.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientLibrary/ClientLibrary.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ClientLibrary/ClientLibrary.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientLibrary/ClientLibrary.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Client.Library/Client.Library.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DemoEmployeeManagementSystem.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DemoEmployeeManagementSystem.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/Server.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Server.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +130,7 @@
       <updated>1734298254230</updated>
       <workItem from="1734298256000" duration="93000" />
       <workItem from="1734298362178" duration="27000" />
-      <workItem from="1734298623431" duration="9152000" />
+      <workItem from="1734298623431" duration="9452000" />
     </task>
     <task id="LOCAL-00001" summary="Add new project">
       <option name="closed" value="true" />
@@ -191,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734349825004</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add nuget">
+      <option name="closed" value="true" />
+      <created>1734439879759</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1734439879759</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +225,7 @@
     <MESSAGE value="Add Client Library" />
     <MESSAGE value="Add ServerLibrary" />
     <MESSAGE value="code rub all code" />
-    <option name="LAST_COMMIT_MESSAGE" value="code rub all code" />
+    <MESSAGE value="Add nuget" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add nuget" />
   </component>
 </project>
